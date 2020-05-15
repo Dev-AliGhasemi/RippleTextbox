@@ -1,0 +1,8 @@
+C:\Users\Ali Ghasemi\Desktop\RippleTextbox\RippleTextbox\RippleTextbox\bin\Debug\RippleTextbox.dll
+C:\Users\Ali Ghasemi\Desktop\RippleTextbox\RippleTextbox\RippleTextbox\bin\Debug\RippleTextbox.pdb
+C:\Users\Ali Ghasemi\Desktop\RippleTextbox\RippleTextbox\RippleTextbox\obj\Debug\RippleTextbox.csprojAssemblyReference.cache
+C:\Users\Ali Ghasemi\Desktop\RippleTextbox\RippleTextbox\RippleTextbox\obj\Debug\RippleTextbox.csproj.CoreCompileInputs.cache
+C:\Users\Ali Ghasemi\Desktop\RippleTextbox\RippleTextbox\RippleTextbox\obj\Debug\RippleTextbox.dll
+C:\Users\Ali Ghasemi\Desktop\RippleTextbox\RippleTextbox\RippleTextbox\obj\Debug\RippleTextbox.pdb
+C:\Users\Ali Ghasemi\Desktop\RippleTextbox\RippleTextbox\RippleTextbox\obj\Debug\RippleTextbox.RippleTextbox.resources
+C:\Users\Ali Ghasemi\Desktop\RippleTextbox\RippleTextbox\RippleTextbox\obj\Debug\RippleTextbox.csproj.GenerateResource.cache
